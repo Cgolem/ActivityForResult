@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Actividad</string>
+    <string name="app_nombre">Actividad - Resultado</string>
+
+    <!-- Datos -->
+    <string name="titulo_pagina">Provincia</string>
+    <string name="nombre_provincia">Nombre</string>
+
+    <string name="titulo_retorno">Ingrese el dato a retornar</string>
+
+    <!-- Botones -->
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
